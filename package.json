@@ -1,0 +1,27 @@
+{
+  "name": "vivotek",
+  "version": "1.0.0",
+  "description": "controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramblekb/vivotek.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramblekb/vivotek/issues"
+  },
+  "homepage": "https://github.com/ramblekb/vivotek#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "js-file-download": "^0.4.12",
+    "node": "^18.5.0",
+    "qs": "^6.11.0"
+  }
+}
